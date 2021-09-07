@@ -1,3 +1,13 @@
 html{
+    height: 100%;
     background-color: radial-gradient(circle, #fff, #ccc);
+}
+
+#container{
+    height: 400px;
+    width: 500px;
+    background-color: #FF0000;
+    margin: 100px auto;
+    padding: 10px;
+    border-radius: 10px;
 }
